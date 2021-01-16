@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.pfaff_hadcom-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "G:/UE4/Pfaff_hadcom/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Pfaff_hadcom-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
